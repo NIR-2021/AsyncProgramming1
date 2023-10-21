@@ -1,0 +1,15 @@
+C:\Nirbheek\Nirbheek\Programs\VIsual Studio\Async programming\TempreatureSensorsEventBased\bin\Debug\net7.0\TempreatureSensorsEventBased.exe
+C:\Nirbheek\Nirbheek\Programs\VIsual Studio\Async programming\TempreatureSensorsEventBased\bin\Debug\net7.0\TempreatureSensorsEventBased.deps.json
+C:\Nirbheek\Nirbheek\Programs\VIsual Studio\Async programming\TempreatureSensorsEventBased\bin\Debug\net7.0\TempreatureSensorsEventBased.runtimeconfig.json
+C:\Nirbheek\Nirbheek\Programs\VIsual Studio\Async programming\TempreatureSensorsEventBased\bin\Debug\net7.0\TempreatureSensorsEventBased.dll
+C:\Nirbheek\Nirbheek\Programs\VIsual Studio\Async programming\TempreatureSensorsEventBased\bin\Debug\net7.0\TempreatureSensorsEventBased.pdb
+C:\Nirbheek\Nirbheek\Programs\VIsual Studio\Async programming\TempreatureSensorsEventBased\obj\Debug\net7.0\TempreatureSensorsEventBased.csproj.AssemblyReference.cache
+C:\Nirbheek\Nirbheek\Programs\VIsual Studio\Async programming\TempreatureSensorsEventBased\obj\Debug\net7.0\TempreatureSensorsEventBased.GeneratedMSBuildEditorConfig.editorconfig
+C:\Nirbheek\Nirbheek\Programs\VIsual Studio\Async programming\TempreatureSensorsEventBased\obj\Debug\net7.0\TempreatureSensorsEventBased.AssemblyInfoInputs.cache
+C:\Nirbheek\Nirbheek\Programs\VIsual Studio\Async programming\TempreatureSensorsEventBased\obj\Debug\net7.0\TempreatureSensorsEventBased.AssemblyInfo.cs
+C:\Nirbheek\Nirbheek\Programs\VIsual Studio\Async programming\TempreatureSensorsEventBased\obj\Debug\net7.0\TempreatureSensorsEventBased.csproj.CoreCompileInputs.cache
+C:\Nirbheek\Nirbheek\Programs\VIsual Studio\Async programming\TempreatureSensorsEventBased\obj\Debug\net7.0\TempreatureSensorsEventBased.dll
+C:\Nirbheek\Nirbheek\Programs\VIsual Studio\Async programming\TempreatureSensorsEventBased\obj\Debug\net7.0\refint\TempreatureSensorsEventBased.dll
+C:\Nirbheek\Nirbheek\Programs\VIsual Studio\Async programming\TempreatureSensorsEventBased\obj\Debug\net7.0\TempreatureSensorsEventBased.pdb
+C:\Nirbheek\Nirbheek\Programs\VIsual Studio\Async programming\TempreatureSensorsEventBased\obj\Debug\net7.0\TempreatureSensorsEventBased.genruntimeconfig.cache
+C:\Nirbheek\Nirbheek\Programs\VIsual Studio\Async programming\TempreatureSensorsEventBased\obj\Debug\net7.0\ref\TempreatureSensorsEventBased.dll
