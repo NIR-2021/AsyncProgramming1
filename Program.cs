@@ -64,11 +64,13 @@ public class CoolingDevice : ICoolingDevice
 {
     public void turnOff()
     {
+        Console.ForegroundColor = ConsoleColor.Green;
         Console.WriteLine("Cooling Device turned off.\n");
     }
 
     public void turnOn()
     {
+        Console.ForegroundColor = ConsoleColor.Blue;
         Console.WriteLine("Cooling Device turned on.\n");
     }
 }
@@ -94,6 +96,8 @@ public class thermostat : IThermostat
     private IHeatSensor _heatSensor = null;
     private IDevice _device = null;
 
+    private bool coolingStatus = false;
+
     private const double warningLevelTemp = 27;
     private const double emergencyLevelTemp = 85;
     
@@ -116,6 +120,8 @@ public class thermostat : IThermostat
         Console.ForegroundColor = ConsoleColor.Green;
         Console.WriteLine();
         Console.WriteLine($"Information Alert !! Tempreature falls below warning level (warning level is between {_device.warningTemp}.");
+        if(coolingStatus)
+            _coolingDevice.turnOff();
         Console.ResetColor();
     }
 
@@ -124,6 +130,8 @@ public class thermostat : IThermostat
         Console.ForegroundColor= ConsoleColor.Red;
         Console.WriteLine();
         Console.WriteLine($"Emergeny Alert!! Tempreature reached Emergency level ( Emergency level is higher than {_device.EmergencyTemp})");
+        _coolingDevice.turnOn();
+        coolingStatus = true;
         Console.ResetColor();
     }
 
